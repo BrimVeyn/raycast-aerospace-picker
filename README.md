@@ -36,7 +36,7 @@ A powerful Raycast extension that enhances AeroSpace window management by provid
 ![Move to Empty Workspace](metadata/picker-3.png)
 *Quickly move windows to available empty workspaces*
 
-### Move to Any Workspace
+### Fuzzy find windows
 ![Move to Any Workspace](metadata/picker-4.png)
 *Choose from all available workspaces (1-10, A-Z)*
 
