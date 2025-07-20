@@ -29,19 +29,19 @@ A powerful Raycast extension that enhances AeroSpace window management by provid
 ## Screenshots
 
 ### Main Window Picker Interface
-![Window Picker Interface](metadata/Capture%20d'écran%202025-07-20%20à%2016.06.59.png)
+![Window Picker Interface](metadata/picker-1.png)
 *Browse all your windows organized by workspace with fuzzy search*
 
 ### Move to Empty Workspace
-![Move to Empty Workspace](metadata/Capture%20d'écran%202025-07-20%20à%2016.07.08.png)
+![Move to Empty Workspace](metadata/picker-3.png)
 *Quickly move windows to available empty workspaces*
 
 ### Move to Any Workspace
-![Move to Any Workspace](metadata/Capture%20d'écran%202025-07-20%20à%2016.13.59.png)
+![Move to Any Workspace](metadata/picker-4.png)
 *Choose from all available workspaces (1-10, A-Z)*
 
 ### Window Actions Menu
-![Window Actions](metadata/Capture%20d'écran%202025-07-20%20à%2016.16.20.png)
+![Window Actions](metadata/picker-2.png)
 *Access all window management actions with keyboard shortcuts*
 
 ## Requirements
