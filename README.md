@@ -52,10 +52,10 @@ A powerful Raycast extension that enhances AeroSpace window management by provid
 
 ## Installation
 
-### From Raycast Store
-1. Open Raycast
-2. Search for "Aerospace Picker"
-3. Install the extension
+### From Raycast Store (not yet published)
+~~1. Open Raycast~~
+~~2. Search for "Aerospace Picker"~~
+~~3. Install the extension~~
 
 ### From Source
 1. Clone this repository
